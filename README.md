@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance
 
-Commentaire d'un texte de droit français : **loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance** (Journal officiel du 3 janvier 1976). Il couvre **20 articles** répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance** (Journal officiel du 3 janvier 1976). Il couvre **22 articles** (20 articles en vigueur et 2 articles abrogés, reproduits pour que la numérotation soit complète) répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 La loi définit la sous-traitance et organise la protection du sous-traitant face à la défaillance de l'entrepreneur principal : acceptation du sous-traitant et agrément de ses conditions de paiement par le maître de l'ouvrage, paiement direct dans les marchés relevant du titre II, action directe contre le maître de l'ouvrage, caution ou délégation de paiement à peine de nullité du sous-traité, obligations de vigilance du maître de l'ouvrage dans les travaux de bâtiment et de travaux publics.
 

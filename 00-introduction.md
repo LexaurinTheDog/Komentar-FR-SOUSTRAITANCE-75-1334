@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance, examinée article par article — **20 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance, examinée article par article — **22 articles** : les 20 articles en vigueur dans leur rédaction consolidée et 2 articles abrogés, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 

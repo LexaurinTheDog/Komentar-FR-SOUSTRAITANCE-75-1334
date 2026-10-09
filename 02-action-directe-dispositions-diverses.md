@@ -122,6 +122,22 @@ La disposition est formulée de manière large à plusieurs égards. Elle vise n
 
 L'article 15 se combine avec les sanctions spéciales prévues ailleurs : la renonciation au paiement direct (article 7) et à l'action directe (article 12, alinéa 2) est réputée non écrite, et l'absence de caution ou de délégation entraîne la nullité du sous-traité (article 14). Ces règles spéciales l'emportent dans leur domaine ; l'article 15 joue pour toutes les autres atteintes à la loi, par exemple une stipulation qui retarderait artificiellement l'acceptation prévue à l'article 3 ou qui organiserait une cession de créances contraire à l'article 13-1.
 
+### Article 15-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2019-04-01 par Ordonnance n° 2018-1074 du 26 novembre 2018 - art. 12)
+
+L'article 15-1 se situait au titre IV, consacré aux dispositions diverses, à la suite de l'article 15, qui frappe de nullité les clauses ayant pour effet de faire échec aux dispositions de la loi. Selon la source, il est abrogé à compter du 1er avril 2019 par l'article 12 de l'ordonnance n° 2018-1074 du 26 novembre 2018 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas.
+
+### Article 15-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2019-04-01 par Ordonnance n° 2018-1074 du 26 novembre 2018 - art. 12)
+
+L'article 15-2 a été abrogé à la même date et par le même texte que l'article 15-1 : à compter du 1er avril 2019, par l'article 12 de l'ordonnance n° 2018-1074 du 26 novembre 2018, selon la source. Son contenu n'est pas reproduit. Le titre IV se poursuit avec les articles 15-3 et 15-4, relatifs à l'application de la loi en Nouvelle-Calédonie, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises.
+
 ### Article 15-3
 
 **Texte de la disposition:**
